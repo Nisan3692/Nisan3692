@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,tailwind,php,java,react,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=vue,python,js,ts,html,css,tailwind,php,java,react,nodejs,git,github,vscode" />
 </p>
 
 
