@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fakruddin01&show_icons=true&theme=transparent&include_all_commits=true" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Nisan3692&show_icons=true&theme=transparent&include_all_commits=true" 
        alt="Your GitHub Stats" 
        width="400"
   />
@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakruddin01&layout=compact&theme=dark" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisan3692&layout=compact&theme=dark" 
        alt="Top Languages" 
        width="400"
   />
