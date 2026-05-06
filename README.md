@@ -5,13 +5,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nisan3692&show_icons=true&theme=transparent&include_all_commits=true" 
-       alt="Your GitHub Stats" 
-       width="400"
-  />
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisan3692&layout=compact&theme=dark" 
