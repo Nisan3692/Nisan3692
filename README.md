@@ -6,14 +6,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisan3692&layout=compact&theme=dark" 
-       alt="Top Languages" 
-       width="400"
-  />
-</p>
-
-
 <div align="center">
   <blockquote style="
     background:#111827;
